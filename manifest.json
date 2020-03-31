@@ -1,6 +1,6 @@
 {
-    "name": "my_first_flutter_webb_app",
-    "short_name": "my_first_flutter_webb_app",
+    "name": "illinois_admin",
+    "short_name": "illinois_admin",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
